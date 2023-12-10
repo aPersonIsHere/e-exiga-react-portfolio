@@ -4,7 +4,7 @@ export default function Resume() {
         <h2>
           Resume
         </h2>
-        <h3>Click Here   <img src="./download-icon.png" width="20" height="20"></img>   to Download my Resume</h3>
+        <h3>Click Here   <a href="https://www.linkedin.com/in/emmanuel-exiga/"><img src="./download-icon.png" width="20" height="20"></img></a>   to Download my Resume</h3>
         <p>
         Front-End Proficiencies
         </p>
