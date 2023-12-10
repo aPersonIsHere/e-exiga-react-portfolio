@@ -1,7 +1,6 @@
 # React Portfolio
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Heroku Deployed Site: 
+Netlify Deployed Site: 
 
 How the Site appears when not logged in or opening the link for the first time:
 
