@@ -28,7 +28,7 @@ export default function Portfolio() {
             <div className="card-body">
               <h5 className="card-title">MoneyType</h5>
               <p className="card-text">Type to earn virtual money to use for upgrades and to customize your avatar! To use all features and save progress, an account must be created.</p>
-              <a href="#" className="btn btn-primary">View Project</a>
+              <a href="https://moneytype.dev.133700.xyz/" className="btn btn-primary">View Project</a>
               <a href="https://github.com/pcrainer38/moneytype" className="btn btn-primary">View Source</a>
             </div>
           </div>
