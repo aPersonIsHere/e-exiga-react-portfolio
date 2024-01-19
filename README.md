@@ -1,8 +1,10 @@
 # React Portfolio
 
-Netlify Deployed Site: 
+Netlify Deployed Site: [https://lustrous-manatee-429eaf.netlify.app/portfolio](https://lustrous-manatee-429eaf.netlify.app/)
 
-How the Site appears when not logged in or opening the link for the first time:
+About Me Page:
+![image](https://github.com/aPersonIsHere/e-exiga-react-portfolio/assets/33707404/6288ab96-cf41-4720-bf8a-73e2567e991c)
+
 
 ## Description
         
