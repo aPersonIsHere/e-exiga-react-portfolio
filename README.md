@@ -1,6 +1,6 @@
 # React Portfolio
 
-Netlify Deployed Site: https://emmanuel-exiga.netlify.app/
+Netlify Deployed Site: https://manny-exiga.netlify.app/
 
 About Me Page:
 ![image](https://github.com/aPersonIsHere/e-exiga-react-portfolio/assets/33707404/6288ab96-cf41-4720-bf8a-73e2567e991c)
