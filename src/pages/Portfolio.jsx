@@ -6,6 +6,15 @@ export default function Portfolio() {
           <div className="card col">
             <img className="card-img-top" src="./foodr-and-drinkr.png" alt="Card image cap"></img>
             <div className="card-body">
+              <h5 className="card-title">Cosmo X - An Underground Odyssey</h5>
+              <p className="card-text">Website about Cosmo X, a Scratch Game!</p>
+              <a href="https://teamcosmo.org/" className="btn btn-primary">View Website</a>
+              <a href="https://teamcosmo.org/cosmox" className="btn btn-primary">View Game</a>
+            </div>
+          </div>
+          <div className="card col">
+            <img className="card-img-top" src="./foodr-and-drinkr.png" alt="Card image cap"></img>
+            <div className="card-body">
               <h5 className="card-title">Dishr & Drinkr</h5>
               <p className="card-text">Find food or drink recipes with given one to three ingredients!</p>
               <a href="https://estevan-gonzales.github.io/project-1-dishr-and-drinkr/" className="btn btn-primary">View Project</a>
