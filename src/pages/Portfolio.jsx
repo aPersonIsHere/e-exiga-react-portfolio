@@ -4,7 +4,7 @@ export default function Portfolio() {
         <h2>Portfolio</h2>
         <div className="row">
           <div className="card col">
-            <img className="card-img-top" src="./foodr-and-drinkr.png" alt="Card image cap"></img>
+            <img className="card-img-top" src="./OldPictureFileThatWontBeUsedForCosmoX.png" alt="Card image cap"></img>
             <div className="card-body">
               <h5 className="card-title">Cosmo X - An Underground Odyssey</h5>
               <p className="card-text">Website about Cosmo X, a Scratch Game!</p>
